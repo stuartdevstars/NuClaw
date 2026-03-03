@@ -1,5 +1,5 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+## Reminders
 
-# Add tasks below when you want the agent to check something periodically.
+- **Thursday/Friday**: Remind Stuart to look into Bark.com services and whether it's worth using for Devstars lead gen

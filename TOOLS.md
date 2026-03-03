@@ -2,6 +2,12 @@
 
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
+## Slack
+
+- **Bot name in Slack:** Nuc-Claw-Nu
+- **Primary channel:** #nuclaw
+- **Private channel:** #elle-d (just us)
+
 ## What Goes Here
 
 Things like:

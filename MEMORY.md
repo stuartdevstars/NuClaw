@@ -44,6 +44,7 @@ Full context in `context/devstars.md`.
 
 ## Setup & Tools
 
+- **Shared Google Drive Folder ID:** `1iybak3Zl_ci4tZiMcBe2NWwco8nodZVc` (Central hub for all relevant data)
 - OpenClaw running on stu-NUC (Linux)
 - Slack is primary channel (Slack bot in workspace)
 - Weekly newsletter digest cron: every Friday 08:00 Europe/Jersey → Slack #newsupdate
