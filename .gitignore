@@ -1,0 +1,6 @@
+.env
+.venv/
+node_modules/
+context/api-keys.md
+*.log
+memory/heartbeat-state.json
